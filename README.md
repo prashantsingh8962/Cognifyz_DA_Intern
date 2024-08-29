@@ -39,6 +39,6 @@ Interns can choose any two levels out of three, with tasks designed to cater to 
 For more details, you can reach out to Cognifyz Technologies:
 - **Email**: contact@cognifyz.com
 - **Website**: [www.cognifyz.com](http://www.cognifyz.com/)
-- **LinkedIn**: [Cognifyz Technologies on LinkedIn](https://www.linkedin.com/company/cognifyz-technologies)
+- **LinkedIn**: [Cognifyz Technologies on LinkedIn](https://www.linkedin.com/company/cognifyz-techonologies/)
 
 This README should serve as a guide to understanding and completing your internship tasks effectively, providing you with valuable experience in data analysis.
