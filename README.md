@@ -32,6 +32,9 @@ Interns can choose any two levels out of three, with tasks designed to cater to 
 - Tasks must be completed with professionalism and posted on LinkedIn with appropriate tags to maximize visibility.
 - A submission form will be provided for final submissions, and each task should be documented separately.
 
+#### **Achievement**
+- **Linkedin_Post**
+
 #### **Contact Information**
 For more details, you can reach out to Cognifyz Technologies:
 - **Email**: contact@cognifyz.com
