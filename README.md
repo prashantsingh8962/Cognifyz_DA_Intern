@@ -42,5 +42,3 @@ For more details, you can reach out to Cognifyz Technologies:
 - **LinkedIn**: [Cognifyz Technologies on LinkedIn](https://www.linkedin.com/company/cognifyz-technologies)
 
 This README should serve as a guide to understanding and completing your internship tasks effectively, providing you with valuable experience in data analysis.
-
-Feel free to explore the complete internship guide and start your journey towards mastering data analysis with Cognifyz Technologies!
