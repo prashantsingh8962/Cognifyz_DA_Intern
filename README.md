@@ -88,14 +88,6 @@ Learn more about them [here](http://www.cognifyz.com).
 
 ---
 
-### **How to Use This Repository:**
-
-- **Analysis Scripts:** Check the `analysis_scripts` folder for Python scripts used for each task.
-- **Data Visualizations:** See the `visualizations` folder for charts, graphs, and maps created during the internship.
-- **Project Documentation:** Refer to the `docs` folder for detailed documentation of the methods, findings, and insights from each task.
-
----
-
 ### **Key Learnings:**
 
 - Advanced data cleaning and preparation techniques to ensure data quality.
@@ -108,7 +100,7 @@ Learn more about them [here](http://www.cognifyz.com).
 ### **Connect with Me:**
 
 Feel free to connect with me on LinkedIn to discuss my internship experience and explore more about data analytics insights!  
-**[My LinkedIn Profile](https://www.linkedin.com/in/yourprofilelink)**
+**[My LinkedIn Profile](https://www.linkedin.com/in/prashantsingh896/)**
 
 ---
 
