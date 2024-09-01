@@ -1,4 +1,4 @@
-# Data Analysis Internship Task at Cognifyz Technologies
+# Cognifyz Technologies Data Analyst Internship
 
 
 **Welcome to My Data Analysis Internship Journey!** 🚀
